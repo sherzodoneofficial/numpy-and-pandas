@@ -9,7 +9,7 @@ Original file is located at
 
 import numpy as np
 # 1. Massiv yaratish
-# Bu Zulayhoni ishi
+# Bu Sherzodni ishi
 array_1d = np.array ( [1, 2, 3, 4, 5])
 array_2d = np.array([[1, 2, 3], [4, 5, 6]])
 # 2. Matematik operatsiyalar
